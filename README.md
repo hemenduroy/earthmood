@@ -4,7 +4,7 @@ Track and visualize global mood on an interactive world map. See how people arou
 
 **Created by Hemendu Roy**
 
-## Screenshots
+## Screenshot
 
 ![EarthMood app](docs/screenshots/app-screenshot.png)
 
