@@ -4,10 +4,6 @@ Track and visualize global mood on an interactive world map. See how people arou
 
 **Created by Hemendu Roy**
 
-## Demo
-
-_Add a short screen-recording GIF here (for example `docs/screenshots/demo.gif`). GitHub renders GIFs inline in READMEs; large MP4/MOV files in the repo are usually a poor fit._
-
 ## Screenshots
 
 ![EarthMood app](docs/screenshots/app-screenshot.png)
